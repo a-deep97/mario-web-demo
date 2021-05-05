@@ -31,7 +31,7 @@ html, body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: 760px;
+    height: 720px;
     width: 100%;
 }
 #gameCanvas{
@@ -51,7 +51,6 @@ html, body{
     font-size: 1.3rem;
     color: teal;
     font-weight: bold;
-    font-family: var(--font1);
 }
 footer{
     display: flex;
